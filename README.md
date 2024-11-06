@@ -1,6 +1,6 @@
 # ComfyUI template matching
 
-This project is a ComfyUI version of  https://github.com/cozheyuanzhangde/Invariant-TemplateMatching. At the moment, it is a work in progress. Any help is appreciated and any feedback is welcome.
+This project is a ComfyUI version of  https://github.com/cozheyuanzhangde/Invariant-TemplateMatching.
 
 ![example](./docs/images/example1.png)
 
@@ -24,3 +24,7 @@ scale_interval: [Integer] Interval of traversing the range of scaling in percent
 rm_redundant: [Boolean] Option for removing redundant matched results based on the width and height of the template.
 minmax:[Boolean] Option for finding points with minimum/maximum value.
 ```
+## Contribution
+Thank you for your interest in contributing to the project! We welcome help from the community and appreciate even the smallest improvements.
+
+If you’d like to contribute, please fork the repository, make your changes, and submit a pull request. I’ll review your contributions and merge them into the main codebase.
