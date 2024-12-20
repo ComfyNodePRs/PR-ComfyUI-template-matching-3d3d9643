@@ -1,0 +1,15 @@
+[project]
+name = "comfyui-template-matching"
+description = "This project is a ComfyUI version of [a/https://github.com/cozheyuanzhangde/Invariant-TemplateMatching](https://github.com/cozheyuanzhangde/Invariant-TemplateMatching)."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["opencv-python", "numpy", "matplotlib", "torch"]
+
+[project.urls]
+Repository = "https://github.com/wentao-uw/ComfyUI-template-matching"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-template-matching"
+Icon = ""
